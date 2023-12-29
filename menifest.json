@@ -1,0 +1,17 @@
+{
+    "name": "Diet Calculator",
+    "short_name": "Diet Calculator",
+    "description": "Calculate your diet requirements",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#3498db",
+    "icons": [
+      {
+        "src": "/icon-256x256.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
